@@ -195,7 +195,7 @@
 	}
 	
 	.cta {
-		background: var(--sign-up-bg);
+		background: var(--spotter-red);
 		color: var(--text-light);
 		padding: 9px 22px 12px 22px;
 		border-radius: 30px;
